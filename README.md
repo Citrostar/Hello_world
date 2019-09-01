@@ -2,10 +2,9 @@
 first one
 
 The first thing I started hier
-+<<<<<<< new-branche
 
-+Using branch now
-+=======
-+Only testing
+Using branch now
 
-+jaaaaaaaaaaai
+Only testing
+
+Finish
