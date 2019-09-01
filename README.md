@@ -2,5 +2,10 @@
 first one
 
 The first thing I started hier
++<<<<<<< new-branche
 
-Using branch now
++Using branch now
++=======
++Only testing
+
++jaaaaaaaaaaai
